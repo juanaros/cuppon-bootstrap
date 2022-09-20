@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    height: 25px;
+}
+
+footer img {
+    width: 82px;
+}
+
+.container img{
+    height: 180px;
+}
+
+.card-title {
+    font-weight: lighter;
+}
